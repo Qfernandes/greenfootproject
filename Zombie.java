@@ -14,7 +14,7 @@ public class Zombie extends Actor
      */
     int animateImage = 0;
     //lower the animate speed for faster animation
-    int animateSpeed = 5;
+    int animateSpeed = 10;
     int count;
     int health = 1;
     Player player;
